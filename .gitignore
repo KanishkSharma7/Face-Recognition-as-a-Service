@@ -1,0 +1,24 @@
+# Ignore the specific file 'project1_grader.py'
+project1_grader.py
+
+# Standard Go project ignores
+go.sum
+
+# Ignore any local editor or OS-generated files
+.DS_Store
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore temporary or unwanted directories
+face_images_1000/
+
+# Ignore the CSV file
+Classification Results on Face Dataset (1000 images).csv
